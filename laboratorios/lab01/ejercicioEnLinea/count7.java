@@ -8,3 +8,4 @@ public int count7(int n) {
   }
   return total7;
 }
+
