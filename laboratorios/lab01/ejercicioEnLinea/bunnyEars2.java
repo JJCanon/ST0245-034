@@ -7,3 +7,4 @@ public int bunnyEars2(int bunnies) {
   else return 2+bunnyEars2(bunnies-1);
   }
 }
+
