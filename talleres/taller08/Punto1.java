@@ -27,7 +27,7 @@
                 return calcular(nuevo);
             }
         }
-        public int operar(String a, String b, String operador)
+        private int operar(String a, String b, String operador)
         {
             int const1 = Integer.parseInt(a);
             int const2 = Integer.parseInt(b);
